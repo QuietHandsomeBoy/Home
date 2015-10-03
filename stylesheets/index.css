@@ -1,0 +1,63 @@
+/*!
+ * HomePage css
+ */
+
+*{
+    margin:0px;
+    padding:0px;
+}
+html {
+}
+body{
+    font-family: Microsoft YaHei;
+}
+::selection {
+    background: #CCC;
+}
+
+.MyBox{
+    width:980px; padding:0px 20px 30px; border:1px solid #cccccc; border-radius:5px; margin:20px auto; box-shadow: 1px 1px 10px #BBB;
+}
+
+.MyBox .userInfo_Box{
+    width:100%;
+    border-bottom:1px solid #F0E5E5;
+}
+.userInfo_Box .uib_one{
+    padding: 20px 0px;
+    text-align:center;
+}
+.userInfo_Box .uib_one .userHeadImg img{
+    width:150px;
+}
+.userInfo_Box .uib_one h3{
+}
+
+.MyBox .content_Box{
+    width:95%;
+    height:500px;
+    margin:0px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
